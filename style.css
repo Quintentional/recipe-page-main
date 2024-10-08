@@ -2,5 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: aquamarine;
+    font-family: "Outfit", sans-serif;
+}
+
+body {
+    background-color: hsl(30, 54%, 90%)
+}
+
+h1, h2 {
+    font-family: "Young Serif", serif;
+}
+
+.layout {
+    background-color: hsl(0, 0%, 100%);
+    width: 50%;
+    height: 90%;
 }
